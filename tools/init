@@ -115,8 +115,8 @@ commit() {
 main() {
   echo "Checking environment..."
   check_env
-  echo "Checkout the latest release..."
-  checkout_latest_release
+  # echo "Checkout the latest release..."
+  # checkout_latest_release
   echo "Initialising files..."
   init_files
   echo "Committing..."
