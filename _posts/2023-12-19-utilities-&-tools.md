@@ -1,11 +1,10 @@
 ---
+title: Utilities & Tools
+date: 2023-12-19 00:00:00 +01:00
+tags:
+- All Team
 layout: post
 comments: false
-date: 2023-12-19
-title: Utilities & Tools
-tags:
-  - All Team
-
 ---
 
 # 1. Công cụ quản lý dự án

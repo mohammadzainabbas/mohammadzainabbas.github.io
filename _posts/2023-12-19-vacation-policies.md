@@ -1,15 +1,14 @@
 ---
+title: Vacation Policies
+date: 2023-12-19 00:00:00 +01:00
+tags:
+- All Team
+- Manager
+- BrSE
+- Developer
+- QA/QC Tester
 layout: post
 comments: false
-date: 2023-12-19
-title: Vacation Policies
-tags:
-  - All Team
-  - Manager
-  - BrSE
-  - Developer
-  - QA/QC Tester
-
 ---
 
 # 1. Tổng quan

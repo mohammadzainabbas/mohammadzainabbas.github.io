@@ -1,13 +1,12 @@
 ---
+title: Meeting Guidelines
+date: 2023-12-19 00:00:00 +01:00
+tags:
+- All Team
+- Manager
+- BrSE
 layout: post
 comments: false
-date: 2023-12-19
-title: Meeting Guidelines
-tags:
-  - All Team
-  - Manager
-  - BrSE
-
 ---
 
 # 1. Chính sách áp dụng
