@@ -1,12 +1,11 @@
 ---
+title: Programming Issues
+date: 2023-12-19 00:00:00 +01:00
+tags:
+- Developer
+- QA/QC Tester
 layout: post
 comments: false
-date: 2023-12-19
-title: Programming Issues
-tags:
-  - Developer
-  - QA/QC Tester
-
 ---
 
 # 1. Quy tắc và chính sách áp dụng
